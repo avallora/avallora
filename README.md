@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">
+  🌌 avallora / начинающий разработчик / Junior Developer
+</h1>
 
-<!--
-**avallora/avallora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img [https://skillicons.dev/icons?i=all](https://skillicons.dev/icons?i=all) />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img [src="https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН&show_icons=true&theme=tokyonight&locale=ru"](https://skillicons.dev/icons?i=all) />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <img [[src="https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН&show_icons=true&theme=tokyonight&locale=ru"](https://skillicons.dev/icons?i=all)](https://skillicons.dev/icons?i=all) />
+</p>
