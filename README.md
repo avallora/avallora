@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌌 avallora / начинающий разработчик / Junior Developer
+  🌌 avallora / Junior Developer
 </h1>
 
 <p align="center">
